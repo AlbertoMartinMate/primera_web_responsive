@@ -110,6 +110,10 @@
       bottom: 62px;
       left: 40px;
     }
+      @include breakpoint(desktop) {
+      bottom: 62px;
+      left: -45px;
+    }
   }
 
 
